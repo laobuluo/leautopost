@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeAutoPost
- * Plugin URI: https://www.lezaiyun.com/854.html
+ * Plugin URI: https://www.laojiang.me/6098.html
  * Description: 一款可以实现自动将WordPress草稿文章定时发布的插件。公众号：老蒋朋友圈。
  * Version: 1.0.1
  * Author: 老蒋和他的小伙伴
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  */
 
 if (!defined('ABSPATH')) {

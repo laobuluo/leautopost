@@ -1,6 +1,6 @@
 <div class="wrap">
     <h1>LeAutoPost设置</h1>
-    <p>定时草稿发布插件设置参数。<a href="https://www.lezaiyun.com/854.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
+    <p>定时草稿发布插件设置参数。<a href="https://www.laojiang.me/6098.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
 
     <form method="post" action="">
         <table class="form-table">
